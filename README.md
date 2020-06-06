@@ -1,10 +1,7 @@
-# UIScrollView+XSState
+# PDF文档
 
-给`UIScrollView`、`UITableView`、`UICollectionView`展示状态信息（比如：加载中、数据为空、加载失败、网络异常等）
+### [`屏幕旋转.pdf`](屏幕旋转.pdf)
 
-## 为什么重复造轮子
-
-给UITableView展示空数据的有[`DZNEmptyDataSet`](https://github.com/dzenbot/DZNEmptyDataSet)、[`LYEmptyView`](https://github.com/dev-liyang/LYEmptyView)，都为开发者提供了常见的提示UI，但使用起来比较繁琐，需要对其提供的UI进行定制。  
 
 ## 设计原则
 -  保持精简，源代码只有100行左右。
