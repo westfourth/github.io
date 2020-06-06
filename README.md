@@ -20,11 +20,9 @@
 
 ### 4. [`XSTcpSocket`](https://github.com/westfourth/XSDatabase) TCP套接字
 
-### 5. [`XSTcpSocket`](https://github.com/westfourth/XSDatabase) TCP套接字
+### 5. [`XSAutoLayout`](https://github.com/westfourth/XSAutoLayout) OC自动布局
 
-### 6. [`XSAutoLayout`](https://github.com/westfourth/XSAutoLayout) OC自动布局
-
-### 7. [`UIScrollView-XSState`](https://github.com/westfourth/UIScrollView-XSState) UITableView、UICollectionView状态显示
+### 6. [`UIScrollView-XSState`](https://github.com/westfourth/UIScrollView-XSState) UITableView、UICollectionView状态显示
 
 
 
