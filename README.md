@@ -10,6 +10,12 @@
 
 ### [`MVC、MVP、MVVM.pdf`](MVC、MVP、MVVM.pdf)
 
+# 代码库
+
+### [`XSVendor`](https://github.com/westfourth/XSVendor)
+
+存放项目开发常用扩展
+
 
 ## 设计原则
 -  保持精简，源代码只有100行左右。
