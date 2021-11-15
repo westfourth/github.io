@@ -10,6 +10,8 @@
 
 ### 5. [`MVC、MVP、MVVM.pdf`](MVC、MVP、MVVM.pdf)
 
+### 6. [`NSPredicate.pdf`](NSPredicate.pdf)
+
 # 代码库
 
 ### 1. [`XSVendor`](https://github.com/westfourth/XSVendor) 项目开发常用扩展
