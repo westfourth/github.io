@@ -12,6 +12,8 @@
 
 ### 6. [`NSPredicate.pdf`](NSPredicate.pdf)
 
+### 7. [`KVC.pdf`](KVC.pdf)
+
 # 代码库
 
 ### 1. [`XSVendor`](https://github.com/westfourth/XSVendor) 项目开发常用扩展
