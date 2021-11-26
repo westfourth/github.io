@@ -28,5 +28,7 @@
 
 ### 6. [`UIScrollView-XSState`](https://github.com/westfourth/UIScrollView-XSState) UITableView、UICollectionView状态显示
 
+### 7. [`XSCommand`](https://github.com/westfourth/XSCommand) 以命令模式设计的中介者，用于模块间解藕，也可用作控制器解藕
+
 
 
